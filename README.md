@@ -31,7 +31,7 @@ Datasets accessible through URLs can be downloaded directly from their respectiv
    
 4.  **Explore and Analyze**: Start your data exploration and analysis to uncover insights into building energy usage.
   
-5. **Future works**: LLM
+5. **Future works**
 
 
 
@@ -52,7 +52,5 @@ Thank you.
 
 
 **Future works**
-
-
 
 Pycosim, LLM interactive data analysis and many more contents will be added after the next meeting  in the repository.
