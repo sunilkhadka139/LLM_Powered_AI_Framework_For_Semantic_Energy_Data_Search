@@ -1,6 +1,6 @@
 **AI-Enhanced Data Infrastructure Energy Project**
 
-Welcome to the  AI-Enhanced Data Infrastructure project! The project seeks to address pivotal decarbonization challenges within building and transportation sectors by creating advanced, semantically-enriched data infrastructures. We aim to overcome prevalent barriers such as data diversity and requisite expertise, hindering stakeholders from leveraging data for decarbonization objectives. The initiative involves the development of a specialized infrastructure, utilizing Large Language Models (LLMs), e.g., GPT-4, renowned for semantic data analysis, textual data mining, and human-machine interaction. This will empower systematic, interactive data usage, filling existing expertise gaps. Key milestones include real-time data preparation, developing LLMs-as-agent frameworks, initiating an interactive user interface, and conducting an interdisciplinary case study for Tucson. The project promises societal and educational impacts, aligning with UA Sustainability & Climate Action Plan and DOE’s Clean Energy Standard, while incorporating AI and data science into UA’s architectural and civil engineering curriculum.
+Welcome to the  AI-Enhanced Data Infrastructure Energy Project! The project seeks to address pivotal decarbonization challenges within building and transportation sectors by creating advanced, semantically-enriched data infrastructures. We aim to overcome prevalent barriers such as data diversity and requisite expertise, hindering stakeholders from leveraging data for decarbonization objectives. The initiative involves the development of a specialized infrastructure, utilizing Large Language Models (LLMs), e.g., GPT-4, renowned for semantic data analysis, textual data mining, and human-machine interaction. This will empower systematic, interactive data usage, filling existing expertise gaps. Key milestones include real-time data preparation, developing LLMs-as-agent frameworks, initiating an interactive user interface, and conducting an interdisciplinary case study for Tucson. The project promises societal and educational impacts, aligning with UA Sustainability & Climate Action Plan and DOE’s Clean Energy Standard, while incorporating AI and data science into UA’s architectural and civil engineering curriculum.
 
 In this Github Repository, We have categorized the datas into two types:
 1. Building Energy Data
@@ -47,7 +47,7 @@ Datasets accessible through URLs can be downloaded directly from their respectiv
 
 
 
-Contribution : We encourage contributions from all project members. If you have any suggestions, improvements, or new data to add, please feel free to edit and reply if there are some mistakes.
+Contribution : We encourage contributions from all project members. If you have any suggestions, improvements, or new data to add, please feel free to edit and reply if there are some mistakes. Feel free to change Github Repository or Project Name if any better ideas.
 Thank you.
 
 
@@ -56,6 +56,7 @@ Thank you.
 
 
 **Future works**
+
 **Installation**
 
 Download and install the latest version of Conda
