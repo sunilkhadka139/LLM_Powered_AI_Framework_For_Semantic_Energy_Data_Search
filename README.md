@@ -39,14 +39,6 @@ Datasets accessible through URLs can be downloaded directly from their respectiv
 
 {_Please feel free to edit _}
 
-
-
-
-
-
-
-
-
 Contribution : We encourage contributions from all project members. If you have any suggestions, improvements, or new data to add, please feel free to edit and reply if there are some mistakes. Feel free to change Github Repository or Project Name if any better ideas.
 Thank you.
 
@@ -57,26 +49,6 @@ Thank you.
 
 **Future works**
 
-**Installation**
 
-Download and install the latest version of Conda
 
-Run Anaconda Prompt as Administrator
-
-Create a new conda environment:
-
-$ conda create -n <enter-the-name-of-repository-here> 
-
-pip $ activate <enter-the-name-of-repository-here> 
-
-Ensure that you have navigated to the top level of your cloned repository. 
-
-You will execute all your pip commands from this location. For example:
-
-$ cd /path/to/repository Install the environment needed for this repository:
-
-$ pip install -e.
-
-#python=3.8.2
-
-Future works:   Pycosim, LLM interactive data analysis and many more contents in the repository.
+Pycosim, LLM interactive data analysis and many more contents will be added after the next meeting  in the repository.
