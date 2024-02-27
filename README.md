@@ -25,8 +25,12 @@ Datasets stored locally can be accessed by project members who have direct acces
 2.2 **URL Access**
 
 Datasets accessible through URLs can be downloaded directly from their respective links. These links are provided within the dataset list for ease of access.
+
 3. **Download the Data**: Download the datasets you need, available in CSV, Excel and Word formats as per the requirement.
-4. **Explore and Analyze**: Start your data exploration and analysis to uncover insights into building energy usage.
+   
+   
+4.  **Explore and Analyze**: Start your data exploration and analysis to uncover insights into building energy usage.
+  
 5. **Future works**: LLM
 
 
