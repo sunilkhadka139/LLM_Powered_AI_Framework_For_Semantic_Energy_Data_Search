@@ -3,10 +3,10 @@
 Welcome to the  AI-Enhanced Data Infrastructure Energy Project! The project seeks to address pivotal decarbonization challenges within building and transportation sectors by creating advanced, semantically-enriched data infrastructures. We aim to overcome prevalent barriers such as data diversity and requisite expertise, hindering stakeholders from leveraging data for decarbonization objectives. The initiative involves the development of a specialized infrastructure, utilizing Large Language Models (LLMs), e.g., GPT-4, renowned for semantic data analysis, textual data mining, and human-machine interaction. This will empower systematic, interactive data usage, filling existing expertise gaps. Key milestones include real-time data preparation, developing LLMs-as-agent frameworks, initiating an interactive user interface, and conducting an interdisciplinary case study for Tucson. The project promises societal and educational impacts, aligning with UA Sustainability & Climate Action Plan and DOE’s Clean Energy Standard, while incorporating AI and data science into UA’s architectural and civil engineering curriculum.
 
 In this Github Repository, We have categorized the data into two types:
-1. Building Energy Data
-2. Transportaion Data
+A. Building Energy Data
+B. Transportaion Data
 
-**1. Building Energy Data**
+**A. Building Energy Data**
 
 This buildiNG energy data has a collection of 21 datasets related to building energy usage. These datasets are provided in CSV file so that it can be used future in python and LLM semantic search. For easier reference for normal users, we have also included excel and word formats in the repository. 
 
@@ -38,7 +38,7 @@ Datasets accessible through URLs can be downloaded directly from their respectiv
 
 
 
-**2. Transportation Energy Data**
+**B. Transportation Energy Data**
 
 
 {_Please feel free to edit _}
