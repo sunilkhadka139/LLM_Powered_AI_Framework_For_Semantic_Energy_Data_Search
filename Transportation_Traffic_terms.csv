@@ -1,0 +1,16 @@
+Data Set|Column|Value|Full Name|Description
+Miovision_Crosswalk|CrosswalkSide|N|North|The pedestrians or bicycles crossed the intersection on the north side.
+Miovision_Crosswalk|CrosswalkSide|S|South|The pedestrians or bicycles crossed the intersection on the south side.
+Miovision_Crosswalk|CrosswalkSide|E|East|The pedestrians or bicycles crossed the intersection on the east side.
+Miovision_Crosswalk|CrosswalkSide|W|West|The pedestrians or bicycles crossed the intersection on the west side.
+Miovision_Crosswalk|CrosswalkSide|NE|Northeast|The pedestrians or bicycles crossed the intersection on the northeast side.
+Miovision_Crosswalk|CrosswalkSide|NW|Northwest|The pedestrians or bicycles crossed the intersection on the northwest side.
+Miovision_Crosswalk|CrosswalkSide|SE|Southeast|The pedestrians or bicycles crossed the intersection on the southeast side.
+Miovision_Crosswalk|CrosswalkSide|SW|Southwest|The pedestrians or bicycles crossed the intersection on the Southwest side.
+Miovision_Crosswalk|Direction|CW|Clockwise |The pedestrians or bicycles crossed the intersection by following the clockwise direction
+Miovision_Crosswalk|Direction|CCW|Counterclockwise|The pedestrians or bicycles crossed the intersection by following the counterclockwise direction
+Inrix_Segments|FRCLevel|1|First class roads|First class roads, such as national highway network roads.
+Inrix_Segments|FRCLevel|2|Second class roads|Second class roads, such as state highway network roads.
+Inrix_Segments|FRCLevel|3|Third class roads|Third class roads, such as state interconnecting network roads.
+Inrix_Segments|FRCLevel|4|Fourth class roads|Fourth class roads, such as major connecting roads.
+Inrix_Segments|FRCLevel|5|Fifth class roads|Fifth class roads, such as minor roads connecting suburbs and destination roads.
