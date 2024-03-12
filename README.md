@@ -8,7 +8,7 @@ B. Transportaion Data
 
 **A. Building Energy Data**
 
-This buildiNG energy data has a collection of 21 datasets related to building energy usage. These datasets are provided in CSV file so that it can be used future in python and LLM semantic search. For easier reference for normal users, we have also included excel and word formats in the repository. 
+This building energy data has a collection of 21 datasets related to building energy usage. These datasets are provided in CSV file so that it can be used future in python and LLM semantic search. For easier reference for normal users, we have also included excel and word formats in the repository. 
 
 **Getting Started**
 
@@ -16,7 +16,7 @@ To get started with the Draft Building Energy Data, follow these steps:
 
 1. **Accept the Box Drive Collaboration Request**: Make sure you've accepted the collaboration request sent to your email to access the shared folder.
 2. **Data Access :**
-The datasets are stored both locally and online. To facilitate easy access for all project members, we've shared the data in a dedicated directory folder on Box under the path: (https://arizona.app.box.com/folder/244432138957). Each dataset's exact location, whether on local storage or through a URL or APu, is specified in the final column of the provided list.
+The datasets are stored both locally and online. To facilitate easy access for all project members, we've shared the data in a dedicated directory folder on Box under the path: (https://arizona.app.box.com/folder/244432138957). Each dataset's exact location, whether on local storage or through a URL or API, is specified in the final column of the provided list.
 
 2.1 **Local Storage**
 
