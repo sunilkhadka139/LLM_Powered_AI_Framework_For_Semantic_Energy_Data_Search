@@ -35,13 +35,28 @@ Datasets accessible through URLs can be downloaded directly from their respectiv
 
 
 
-
-
-
 **B. Transportation Energy Data**
+This transportation data has a collection of 2 different transportation data sources, Inrix and Miovison. The datasets are provided through APIs developed by the Center for Applied Transportation Sciences (CATS) in JSON format, which is a widely used method of data transfer in the industry. In addition, we provide CSV files for all the data schema of the datasets. All the resources can be used further in Python and LLM semantic search. For easier reference for normal users, we have also included Excel formats in the repository. 
+
+**Getting Started**
+
+To get started with the Draft Transportation Data, follow these steps:
+
+1. **Accept the Box Drive Collaboration Request**: Make sure you've accepted the collaboration request sent to your email to access the shared folder.
+2. **Data Access :**
+The instructions and the schema of the datasets are stored both locally and online. To facilitate easy access for all project members, we've shared the data in a dedicated directory folder on Box under the path: (https://arizona.box.com/s/g6f1pqblwde2ewyjxtty7h2kdwugd0p0). 
+
+2.1 **Local Storage**
+Datasets stored locally can be accessed by project members who have direct access to the storage medium. Please ensure you have the necessary permissions to access these files.
+
+2.2 **API Access**
+Each dataset's API is well described in the document (https://arizona.box.com/s/11dy82qd5vki837oqkg1hbdb6cvpml3f).
+
+3.  **Explore and Analyze**: Start your data exploration and analysis to uncover insights into the transportation situation to efficient the transportation flow and further reduce energy consumption.
+4. **Future works**
 
 
-{_Please feel free to edit _}
+
 
 Contribution : We encourage contributions from all project members. If you have any suggestions, improvements, or new data to add, please feel free to edit and reply if there are some mistakes. Feel free to change Github Repository or Project Name if any better ideas.
 Thank you.
