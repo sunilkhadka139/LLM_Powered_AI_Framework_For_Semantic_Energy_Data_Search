@@ -8,7 +8,7 @@ B. Transportaion Data
 
 **A. Building Energy Data**
 
-This buildiNG energy data has a collection of 21 datasets related to building energy usage. These datasets are provided in CSV file so that it can be used future in python and LLM semantic search. For easier reference for normal users, we have also included excel and word formats in the repository. 
+This building energy data has a collection of 21 datasets related to building energy usage. These datasets are provided in CSV file so that it can be used future in python and LLM semantic search. For easier reference for normal users, we have also included excel and word formats in the repository. 
 
 **Getting Started**
 
