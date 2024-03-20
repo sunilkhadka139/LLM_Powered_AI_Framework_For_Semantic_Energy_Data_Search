@@ -75,6 +75,7 @@ Pycosim, LLM interactive data analysis and many more contents will be added afte
 
 
 **Installation for RAG workflow**
+
 Download and install the latest version of [Conda](https://www.anaconda.com/products/distribution)\
 Run Anaconda Prompt as Administrator\
 Create a new conda environment:\
