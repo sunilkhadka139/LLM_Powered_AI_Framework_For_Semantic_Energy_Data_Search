@@ -1,0 +1,10 @@
+numpy
+pandas
+jupyter
+cohere
+nltk
+annoy
+beautifulsoup4
+
+[dev]
+pytest

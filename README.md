@@ -84,4 +84,13 @@ Create a new conda environment:\
 Ensure that you have navigated to the top level of your cloned repository. You will execute all your pip commands from this location. For example:\
 `$ cd /path/to/repository`
 Install the environment needed for this repository:\
-`$ pip install -e.`
+`$ pip install -e.` (not tested)
+
+Or Manually install library in the terminal (suggested):
+pip install numpy
+pip install pandas
+pip install jupyter
+pip install cohere
+pip install nltk
+conda install conda-forge::python-annoy
+pip install beautifulsoup4

@@ -31,8 +31,6 @@ setuptools.setup(
     install_requires=[
         'numpy',
         'pandas',
-        'scikit-learn',
-        'matplotlib',
         'jupyter',
         'cohere',
         'nltk',
