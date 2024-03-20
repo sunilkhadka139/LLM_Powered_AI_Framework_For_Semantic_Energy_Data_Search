@@ -35,13 +35,17 @@ setuptools.setup(
         'matplotlib',
         'jupyter',
         # 'tk',
-        'openai',
+        # 'openai',
         # 'torch',
         # 'torchvision',
         # 'torchaudio',
         # 'torchvision==0.13.1',
         # 'torchaudio',
         # 'torch',
+        'cohere',
+        'nltk',
+        'annoy',
+        'beautifulsoup4'
     ],
     extras_require={
         'dev': [
