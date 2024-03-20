@@ -29,23 +29,15 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires='>=3.8',
     install_requires=[
-        'pandas',
         'numpy',
+        'pandas',
         'scikit-learn',
         'matplotlib',
         'jupyter',
-        # 'tk',
-        # 'openai',
-        # 'torch',
-        # 'torchvision',
-        # 'torchaudio',
-        # 'torchvision==0.13.1',
-        # 'torchaudio',
-        # 'torch',
         'cohere',
         'nltk',
         'annoy',
-        'beautifulsoup4'
+        'beautifulsoup4',
     ],
     extras_require={
         'dev': [
