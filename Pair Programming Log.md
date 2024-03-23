@@ -9,7 +9,7 @@
 
 **Resources**
 - RAG tutorial: https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
-- https://github.com/netease-youdao/QAnything
+- RAG tool: https://github.com/netease-youdao/QAnything
 
 **1. March 20, 2024**
 
