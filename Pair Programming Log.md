@@ -11,6 +11,32 @@
 - RAG tutorial: https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
 - RAG tool: https://github.com/netease-youdao/QAnything
 
+**2. March 27, 2024 **
+Outlined Tasks
+- Check the code by Pei-Yu
+- Discussion with Saquib regarding updates
+- Try for Building Energy Data
+- Discuss for the improvement and future next steps
+
+Progress
+
+-Data in the Building csv file, Ensure it works.
+-Add more columns to make the data more descriptive.
+-Test some transportation questions and we cannot provide the most related specific datasets.
+-Box got access to token.
+
+
+
+
+Take-home tasks and Next Steps
+- Data Structure: Divide the datasets to be more specific to give more accurate results.
+- Improve the CSV file so that LLM can easily give better performance
+- How related data set is accessible? and Try to make some research regarding this problem.
+- How to get data from box drive token?
+  
+
+
+
 **1. March 20, 2024**
 
 Outlined Tasks
