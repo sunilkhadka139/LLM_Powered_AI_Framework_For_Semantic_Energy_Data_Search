@@ -28,7 +28,11 @@ Progress
 
 Take-home tasks and Next Steps
 - Watch the video, understand the logic behind the code
-- Do research and try to think of the way to make boxdrive link accesible with the code.
+- Do research and try to think of the way to make boxdrive link accesible with the code.  
 - Do research on how people deal with different sturcture of the data source to their knowledge base.
 - Try to find relevant algorithm for llm to chose between building data and transportation data at the beginning so that llm can know whether user is asking questions related to building or transportation.
 
+[Pei-Yu]
+
+Box: https://colab.research.google.com/drive/1mZVPGVGh6OhoD5SoZV-BMvjzsthPccR-?ouid=109669092208352724855&usp=drive_link
+Transportation Search: https://colab.research.google.com/drive/1OanPWbgFUuAyhNS4WEjzCujc0icbpE8M?usp=drive_link
