@@ -10,6 +10,7 @@
 **Resources**
 - RAG tutorial: https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
 - RAG tool: https://github.com/netease-youdao/QAnything
+- Google Gemini API setup and usage: https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/tutorials/python_quickstart.ipynb
 
 **2. March 27, 2024 **
 Outlined Tasks
