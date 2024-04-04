@@ -12,7 +12,28 @@
 - RAG tool: https://github.com/netease-youdao/QAnything
 - Google Gemini API setup and usage: https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/tutorials/python_quickstart.ipynb
 
-**2. March 27, 2024 **
+**2. April 3, 2024**
+Outlined Tasks
+- Dictionary in dataset
+- Automate the code, edit all the hard coding
+- Test Results
+- Planning for for-loop and dataframe preparation
+
+Progress
+
+-Dictionary made
+-Result Query few tested
+
+
+Take-home tasks and Next Steps
+- Try more prompts
+- Task 1: Check all the columns using for loops to check pass/fail
+- Task 2: Set of specific question as columns to see result success
+
+  
+
+
+**2. March 27, 2024**
 Outlined Tasks
 - Check the code by Pei-Yu
 - Discussion with Saquib regarding updates
