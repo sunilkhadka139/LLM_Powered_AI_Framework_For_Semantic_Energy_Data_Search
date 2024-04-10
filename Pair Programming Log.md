@@ -12,7 +12,10 @@
 - RAG tool: https://github.com/netease-youdao/QAnything
 - Google Gemini API setup and usage: https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/tutorials/python_quickstart.ipynb
 
-**2. April 3, 2024**
+**4. April 10, 2024**
+![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
+
+**3. April 3, 2024**
 Outlined Tasks
 - Dictionary in dataset
 - Automate the code, edit all the hard coding
