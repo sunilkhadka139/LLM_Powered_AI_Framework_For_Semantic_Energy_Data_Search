@@ -16,6 +16,23 @@
 
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
+Outlined Tasks
+- Create function for Task 1.1 and Task 1.2
+- Complete Task 1
+  
+
+Progress
+
+- Program running for test 1
+- Re-arrange the codes to make it look better
+ 
+
+
+Take-home tasks and Next Steps
+- Sunil tries GEMINI
+- Pei-Yu makes transportation data API access
+- Task 2: Set of specific question as columns to see result success
+
 
 **3. April 3, 2024**
 Outlined Tasks
