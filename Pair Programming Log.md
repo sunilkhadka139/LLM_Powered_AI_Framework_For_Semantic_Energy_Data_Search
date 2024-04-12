@@ -11,7 +11,7 @@
 - RAG tutorial: https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
 - RAG tool: https://github.com/netease-youdao/QAnything
 - Google Gemini API setup and usage: https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/tutorials/python_quickstart.ipynb
-- AutoGen with Gemini: Runnable with a simple example. Author: Liang Zhang: https://colab.research.google.com/drive/19cDeKt1LmDpkbwlDs_5mpZEIdG3y_iTA?usp=sharing
+- AutoGen with Gemini: Runnable with a simple example. Author: Liang Zhang and Sunil Khadka: https://colab.research.google.com/drive/1P9FXjOThefx_gVTsnxzra3cz5rDJ89n6?usp=sharing
 - AutoGen with Gemini: Other resources: https://github.com/microsoft/autogen/blob/7265ef1a3fb194e1d3d7345e47e4dc9a30ecd6fd/notebook/agentchat_gemini.ipynb
 
 **4. April 10, 2024**
