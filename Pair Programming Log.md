@@ -24,7 +24,7 @@ Placeholder 1: ["Weather Information","Building Stock GIS Information","Occupant
 
 Placeholder 2: ["Residential building", "commercial building", "industrial building"]
 
-Placeholder 3: ["in the year 2015", "in the year 2012", ..., "in Arizona", "in Pennsylvania", ... ]
+Placeholder 3: ["in the year 2020", "in the year 2012", "in Arizona", "in the U.S."]
 
 Prompt: I want to know about [Placeholder 1] in the type of building of [placeholder 2] in [Placeholder 3], generate a list of the relevant open data name
 
