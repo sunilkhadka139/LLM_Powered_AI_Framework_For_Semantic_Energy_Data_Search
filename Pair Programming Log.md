@@ -17,6 +17,7 @@
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
 *Revision: "Copy-paste the code" should be "Copy-Paste the Prompt"
+
 Outlined Tasks
 - Create function for Task 1.1 and Task 1.2
 - Complete Task 1
