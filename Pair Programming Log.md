@@ -15,6 +15,10 @@
 - AutoGen with Gemini: Other resources: https://github.com/microsoft/autogen/blob/7265ef1a3fb194e1d3d7345e47e4dc9a30ecd6fd/notebook/agentchat_gemini.ipynb
 
 **Liang's Notes on Test 2**
+Type 1 is already finished
+
+Type 2:
+
 Placeholder 1: ["Weather Information","Building Stock GIS Information","Occupant Behavior","Building Characteristics",""Macroscopic energy data,"Microscopic energy data","Comprehensive Data Lake"]
 
 Placeholder 2: ["Residential building", "commercial building", "industrial building"]
@@ -24,6 +28,13 @@ Placeholder 3: ["in the year 2015", "in the year 2012", ..., "in Arizona", "in P
 Prompt: I want to know about [Placeholder 1] in the type of building of [placeholder 2] in [Placeholder 3], generate a list of the relevant open data name
 
 This prompt should be fed into RAG not just LLM.
+
+Type 3: 
+
+Generate about 10 questions. Use your customized question as prompt to ask for relavant open data name.
+
+Example: "Please give me weather information in Arizona in 2015. What open data should I look at"
+
 
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
