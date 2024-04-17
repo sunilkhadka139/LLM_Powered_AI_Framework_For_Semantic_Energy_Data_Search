@@ -40,6 +40,8 @@ Our goal is not to make sure 100% accuracy, but we want to use the right questio
 
 If the accuracy is not good, redo the above 3 types using Gemini.
 
+Type 1, Type 2 and Type 3 reeults for Task 1 on Building Energy Data shared
+
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
 *Revision: "Copy-paste the code" should be "Copy-Paste the Prompt"
