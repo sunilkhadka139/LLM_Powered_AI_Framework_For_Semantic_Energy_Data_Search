@@ -32,8 +32,8 @@ This prompt should be fed into RAG not just LLM.
 
 Type 3: 
 
-Generate about 10 questions. Use your customized question as prompt to ask for relavant open data name.
-
+Generate about 10 questions. Use your customized question as prompt to ask for relavant open data name. Select 10 good questions, with 8/10 answer available, rewrite it in 10 different questions and the result must be Database
+.
 Example: "Please give me weather information in Arizona in 2015. What open data should I look at"
 
 Our goal is not to make sure 100% accuracy, but we want to use the right question to test whether RAG and LLM does a good job.
