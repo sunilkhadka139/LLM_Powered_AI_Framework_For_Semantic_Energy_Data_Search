@@ -42,6 +42,10 @@ If the accuracy is not good, redo the above 3 types using Gemini.
 
 Type 1, Type 2 and Type 3 reeults for Task 1 on Building Energy Data shared
 
+Test 3. Mannually feed data request to ChatGPT
+
+Procedures: 1 Design 2-3 questions for every dataset 2. for each dataset, update the data to ChatGPT and get answer, 3. copy paste results to the cvs file, 4. judge the restuls, 5. repeat the procedure for 21 times (number of datasets)
+
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
 *Revision: "Copy-paste the code" should be "Copy-Paste the Prompt"
