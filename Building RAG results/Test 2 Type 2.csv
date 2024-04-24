@@ -1,0 +1,22 @@
+﻿RESULT,Question,Answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Where can I find Energy consumption statistics for Mixed-use buildings For the year 2011?,"Energy consumption statistics for mixed-use buildings for the year 2011 can be found in  Energy Information Administration (EIA):
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Give me database location for  Energy consumption statistics for Single-family homes By U.S. census region and state?,Energy Information Administration,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,I want to know about Weather Information related to Industrial building in the year 2015. Where can I find the database?,"The context provided does not include specific weather information related to industrial buildings for the year 2015. 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Can you provide me information where can I find  Building Stock GIS Information related to Residential building in the year,Microsoft Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,"For my project, I am looking  know about database related to  Occupant Behavior related to Residential building. Which database should I consult?",American House Survey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Where can I find Microscopic energy data related to Residential building in the year 2015.,The Residential Energy Consumption Survey (RECS) is a relevant database for your query,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Which database covers the U.S. by utility provider?,"The Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. The EIA provides a free",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,Which database should I refer to if I want to know about macrospic energy data related to commerical building in Arizona?,"Based on the provided information, here is an answer to your question: 
+
+To obtain macroscopic energy data related to commercial buildings in Arizona, the most relevant database to consult is the Energy Information Administration - Commercial Buildings Energy Consumption Survey (CBECS). CBECS is a program by the U.S. Energy Information Administration that provides statistical information on energy usage and characteristics for commercial buildings in the United States. 
+
+The data is collected through surveys completed by building owners and managers, as well as energy suppliers. It covers building characteristics, energy consumption by different end uses, and energy expenditures. The surveys are conducted periodically, with the most recent data available for 2018 representing 5.9 million commercial buildings in the U.S. 
+
+CBECS provides data at the national level and by census division. Arizona falls under the Mountain census division, so you can filter the data accordingly to obtain energy information specific to commercial buildings in Arizona. 
+
+The CBECS data can be accessed through the EIA website, and it can be used to build and calibrate sampled energy models for commercial buildings in the region. The database is available at the provided URL: https://www.eia.gov/consumption/commercial/.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,I want to know about Comprehensive Data Lake related to Residential building in the year 2012.,The answer is not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
