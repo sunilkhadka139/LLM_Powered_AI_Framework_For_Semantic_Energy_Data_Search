@@ -50,6 +50,10 @@ Test 4. AutoGen
 
 1. To make sure AutoGen can read google drive data, 2. Use the question designed in Test 3, 3. Designing a prompt to include your question, as well as the data you read., 4. If works well, do the same thing like test 3 to record answers, 5. if not work well, we can discuss in the Friday's pari coding
 
+**4. Transportation Data Set**
+1. Design the dataset in more structured way. Then arrange it in tabular fromat and Use RAG to access datas.
+
+
 
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
