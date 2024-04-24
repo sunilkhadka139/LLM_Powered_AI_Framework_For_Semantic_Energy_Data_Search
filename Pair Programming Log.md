@@ -32,8 +32,8 @@ This prompt should be fed into RAG not just LLM.
 
 Type 3: 
 
-Generate about 10 questions. Use your customized question as prompt to ask for relavant open data name.
-
+Generate about 10 questions. Use your customized question as prompt to ask for relavant open data name. Select 10 good questions, with 8/10 answer available, rewrite it in 10 different questions and the result must be Database
+.
 Example: "Please give me weather information in Arizona in 2015. What open data should I look at"
 
 Our goal is not to make sure 100% accuracy, but we want to use the right question to test whether RAG and LLM does a good job.
@@ -41,6 +41,15 @@ Our goal is not to make sure 100% accuracy, but we want to use the right questio
 If the accuracy is not good, redo the above 3 types using Gemini.
 
 Type 1, Type 2 and Type 3 reeults for Task 1 on Building Energy Data shared
+
+Test 3. Mannually feed data request to ChatGPT
+
+Procedures: 1 Design 2-3 questions for every dataset 2. for each dataset, update the data to ChatGPT and get answer, 3. copy paste results to the cvs file, 4. judge the restuls, 5. repeat the procedure for 21 times (number of datasets)
+
+Test 4. AutoGen
+
+1. To make sure AutoGen can read google drive data, 2. Use the question designed in Test 3, 3. Designing a prompt to include your question, as well as the data you read., 4. If works well, do the same thing like test 3 to record answers, 5. if not work well, we can discuss in the Friday's pari coding
+
 
 **4. April 10, 2024**
 ![unnamed](https://github.com/sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search/assets/33605314/c2b84ba2-0326-4cdb-9bfb-9405ccb5f8b6)
