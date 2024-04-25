@@ -53,6 +53,30 @@ Test 4. AutoGen
 **4. Transportation Data Set**
 1. Design the dataset in more structured way. Then arrange it in tabular fromat and Use RAG to access datas.
 
+4. April 24, 2024**
+
+
+Outlined Tasks
+- Sunil Test 3
+- Research on Test 1 and Test 2
+  
+
+Take-home tasks and Next Steps
+- Idea to solve individual problem
+- Maybe Train the Meta Data.
+
+*4. April 17, 2024**
+
+
+Outlined Tasks
+- Sunil Re-do the coding Task
+- Pei-Yu does research on Trasnportation Data
+  
+
+
+Take-home tasks and Next Steps
+- Complete all task
+- Pei-Yu makes transportation data API access
 
 
 **4. April 10, 2024**
