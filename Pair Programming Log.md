@@ -49,6 +49,7 @@ Procedures: 1 Design 2-3 questions for every dataset 2. for each dataset, update
 Test 4. AutoGen
 0. Make AUTOGEN WORK
 1. To make sure AutoGen can read google drive data, 2. Use the question designed in Test 3, 3. Designing a prompt to include your question, as well as the data you read., 4. If works well, do the same thing like test 3 to record answers, 5. if not work well, we can discuss in the Friday's pari coding
+  AI trials: GEMINI PRO VERSION(best version), COHERE AI(best model), CLAUDE AI, MISTRAL AI LOCAL computer.
 
 **4. Transportation Data Set**
 1. Design the dataset in more structured way. Then arrange it in tabular fromat and Use RAG to access datas.
